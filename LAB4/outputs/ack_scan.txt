@@ -1,0 +1,8 @@
+# Nmap 7.99 scan initiated Tue Sep 29 05:31:17 2026 as: /usr/lib/nmap/nmap -sA -oN ack_scan.txt 192.168.56.101
+Nmap scan report for 192.168.56.101
+Host is up (0.017s latency).
+All 1000 scanned ports on 192.168.56.101 are in ignored states.
+Not shown: 1000 unfiltered tcp ports (reset)
+MAC Address: 08:00:27:4A:5A:61 (Oracle VirtualBox virtual NIC)
+
+# Nmap done at Tue Sep 29 05:31:17 2026 -- 1 IP address (1 host up) scanned in 0.50 seconds
