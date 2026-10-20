@@ -3,7 +3,7 @@
 ## 1. THÔNG TIN SINH VIÊN & BÀI THỰC HÀNH
 * **Họ và tên sinh viên:** Nguyễn Tiến Đạt   
 * **Mã số sinh viên (MSSV):** 1150080090
-* **Lớp:** 11TMDT
+* **Lớp:** 11CNPM2
 * **Môn học:** An toàn hệ thống thông tin
 * **Bài thực hành:** LAB 6 - Xác thực Active Directory và Chính sách truy cập trên pfSense
 
